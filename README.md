@@ -20,7 +20,7 @@ This Application contains a list of his nick names which others used to call him
 
 I got inspired to do this application  from the online resources about how to make a simple application with a knowledge of HTML , CSS and BOOTSTRAP.I have studies some of his short stories during my schooling which used to be very interesting and inspiring. So I decided to create an application on William Shakespeare to pay him the tribute.
 
-##  Link to my Application
+##  Link to web app
 
 [Web App](https://sriram-mogalapalli.github.io/TRIBUTE-TO-WILLIAM-SHAKESPEARE/)
   
