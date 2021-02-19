@@ -1,0 +1,279 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+h1 {
+  font-size: 2.8rem;
+  font-weight: bold;
+  font-family: "Montserrat";
+  line-height: 1.5;
+  margin-bottom: 8%;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Texturina', serif;
+  font-weight: bolder;
+  line-height: 1.5;
+  margin-bottom: 5%;
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: "Montserrat";
+}
+
+/* title section */
+#title {
+  background-color: #d8ac9c;
+  padding:7%;
+
+}
+
+.left-content {
+  padding:5%;
+  margin: 0  4.8%;
+}
+
+#photo1 {
+  width: 55%;
+  margin: auto;
+  display: block;
+}
+
+.table {
+  width: 55%;
+  margin: auto;
+  border: none;
+}
+
+.table th,
+.table td {
+  border-top: #d8ac9c;
+  border-bottom: 1px solid black;
+}
+
+/* quotes section */
+#quotes {
+  text-align: center;
+  padding: 5% 5% 2.8%;
+}
+
+.quotedecor {
+  border: medium solid red;
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  color: white;
+  background-color: brown;
+  display: inline-block;
+  float: left;
+  margin: 3% 1%;
+}
+
+.quotedecor:hover {
+  background-color: grey;
+  color: yellow;
+}
+
+.morequotes {
+  clear: both;
+  margin-top: 4%;
+}
+
+.inline1 {
+  display: inline-block;
+}
+
+.inline2 {
+  display: inline-block;
+  width: 15%;
+}
+
+.inline2 p {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.quotehov:hover {
+  color: red;
+
+}
+
+.quotehov:active {
+  color: green;
+}
+
+/* books section */
+#books {
+  background-color: #d8ac9c;
+  text-align: center;
+  padding: 5%;
+  overflow:hidden;
+}
+.book-width {
+  width: 240px;
+}
+
+.book-decor {
+float:left;
+margin:6% 1% 6% 16%;
+}
+
+.book-decor p {
+  font-size:1em;
+}
+
+.bookclear{
+  clear: both;
+}
+
+.bookhov:hover {
+  color: red;
+}
+
+.bookhov:active {
+  color: green;
+}
+
+/* VideoClip Section*/
+.bottom-container2 h2 {
+text-align: center;
+padding-top: 5%;
+
+}
+
+.bio {
+  position:relative;
+  overflow:hidden;
+  width:70%;
+  padding-top:45%;
+  display:block;
+  margin:auto;
+}
+
+#iframe {
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  width:80%;
+  height:80%;
+  display:block;
+  margin: 0 auto;
+}
+
+
+/* footer */
+.footer {
+  text-align: center;
+  background-color: lightgray;
+}
+.footer h1 {
+  margin-bottom: 2%;
+  font-size: 2rem;
+}
+
+.profile {
+  width:15%;
+  display:block;
+  margin:0 auto;
+}
+
+.footer p {
+  font-size: 1rem;
+  text-align: justify;
+  padding:1%;
+}
+
+
+/* MEDIA QUERIES */
+/* media queries for title and quotes section */
+@media (min-width:992px) and (max-width:1222px) {
+  #photo1 {
+    width: 60%;
+  }
+
+  .table {
+    width: 60%;
+  }
+
+  h1 {
+    margin-bottom:2%;
+  }
+
+  .left-content {
+    padding: 0 3.5% 3.5% 3.5%;
+  }
+
+.book-decor{
+  margin:1% 3%;
+}
+
+}
+
+@media (min-width:697px) and (max-width:991px) {
+  h1 {
+    text-align: center;
+    margin-bottom:2%;
+  }
+
+  .left-content {
+  margin: 0% 20% 5%;
+  }
+
+  #photo1 {
+    width: 40%;
+    display: inline-block;
+  }
+
+  .table {
+    width: 50%;
+    float: right;
+    margin-top: 10%;
+  }
+
+  .inline2 {
+    width: 35%;
+  }
+}
+
+@media (max-width:696px) {
+  h1 {
+    text-align: center;
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
+
+  .left-content {
+    margin: 5% 0 5% 10% ;
+  }
+
+  .quotedecor {
+    height: 120px;
+  }
+
+  .inline2 {
+    width: 35%;
+  }
+
+}
+
+ /* media query for books section   */
+@media (max-width:761px){
+  .book-decor{
+    margin:auto;
+    padding-bottom: 2%;
+    display:block;
+    float:none;
+  }
+}
