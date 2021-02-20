@@ -12,6 +12,12 @@ ven in most of the schools and colleges most  of his works have became a referen
 * CSS
 * BootStrap     
 
+
+## mobile and desktop viewport
+
+![desktop](images/desktop.PNG)
+![mobile](IMAGES/phone.PNG)
+
 ## About Application
 
 This Application contains a list of his nick names which others used to call him. I have included some of the top quotes which have been derived from his famous books. The list of his top 6 stories or dramas have been enclosed in my application which anyone can access to those from the links provided below each book. A video clip pertaining to the life story of William Shakespeare have been added in my application.
