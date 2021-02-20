@@ -16,7 +16,7 @@ ven in most of the schools and colleges most  of his works have became a referen
 ## mobile and desktop viewport
 
 ![desktop](images/desktop.PNG)
-![mobile](IMAGES/phone.PNG)
+![mobile](images/phone.PNG)
 
 ## About Application
 
