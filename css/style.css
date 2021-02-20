@@ -88,11 +88,6 @@ p {
   margin: 3% 1%;
 }
 
-.quotedecor:hover {
-  background-color: grey;
-  color: yellow;
-}
-
 .morequotes {
   clear: both;
   margin-top: 4%;
