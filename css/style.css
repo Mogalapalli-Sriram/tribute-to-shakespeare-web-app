@@ -27,10 +27,23 @@ p {
   font-family: "Montserrat";
 }
 
+/* header place */
+#header {
+ background-color: #d8ac9c;
+ overflow:hidden;
+}
+
+#header a {
+  float:right;
+  
+  
+}
+
 /* title section */
 #title {
   background-color: #d8ac9c;
   padding:7%;
+  clear:both;
 
 }
 
