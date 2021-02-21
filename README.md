@@ -13,7 +13,7 @@ ven in most of the schools and colleges most  of his works have became a referen
 * BootStrap     
 
 
-## mobile and desktop viewport
+## Desktop and Mobile viewports
 
 ![desktop](images/desktop.PNG)
 ![mobile](images/phone.PNG)
