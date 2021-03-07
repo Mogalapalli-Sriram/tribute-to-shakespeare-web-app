@@ -1,4 +1,4 @@
-# TRIBUTE TO WILLIAM SHAKESPEARE   [Web App](https://sriram-mogalapalli.github.io/tribute-to-shakespeare-web-app/)
+# TRIBUTE TO WILLIAM SHAKESPEARE   [Web App]( https://mogalapalli-sriram.github.io/tribute-to-shakespeare-web-app/)
 
 
 ## Introduction
@@ -28,5 +28,5 @@ I got inspired to do this application  from the online resources about how to ma
 
 ##  Link to web app
 
-[Web App](https://sriram-mogalapalli.github.io/tribute-to-shakespeare-web-app/)
+[Web App]( https://mogalapalli-sriram.github.io/tribute-to-shakespeare-web-app/)
   
